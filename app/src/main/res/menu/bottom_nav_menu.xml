@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:shownIn="navigation_view">
+
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24" />
+    <item
+        android:title="Blog"
+        android:id="@+id/blog"
+        android:icon="@drawable/ic_baseline_article_24"/>
+    <item
+        android:title="Course"
+        android:id="@+id/course"
+        android:icon="@drawable/ic_baseline_menu_book_24" />
+    <item
+        android:title="Contact"
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_baseline_contact_support_24"/>
+</menu>
